@@ -11,5 +11,5 @@ variable "AMIS" {
 	default = {
 		ap-south-1 = "ami-02eb7a4783e7e9317"
 	}
-]
+}
 
